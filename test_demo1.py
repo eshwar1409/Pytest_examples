@@ -13,7 +13,7 @@ class TestMathOperations:
         assert 3 * 4 == 12
 
     def test_division(self):
-        assert 8 / 2 == 4
+        assert 8 / 2 == 2
 
 if __name__ == "__main__":
   pytest.main()
